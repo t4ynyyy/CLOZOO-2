@@ -1,0 +1,38 @@
+.mainbuttons {
+    display: flex;
+    text-align: center;
+    padding-top: 2%;
+}
+#mainbutt1 {
+    flex: 1;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 5%;
+}
+#mainbutt2 {
+    flex: 1;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 5%;
+}
+
+.maininfo {
+    display: flex;
+    margin-top: 3%;
+}
+
+.mainvideo {
+    flex: 1;
+}
+
+.main-bite-block {
+    margin-left: 1%;
+    flex: 1;
+}
+.bit-block-text {
+    text-decoration: none;
+    }
+
+
+
+
